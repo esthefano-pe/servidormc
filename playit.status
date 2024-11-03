@@ -9445,3 +9445,18 @@ login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAy4awAAAZLv2ecnAAA
 
 TUNNELS
 category-pairs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730600891014 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAy4awAAAZLv2ecnAAAAAQAAAAEAAAAAAAAAANXlbIdeTKPWoe9OG99yJslvuWbQQXPdpNTWWmI8Coo6
+
+TUNNELS
+category-pairs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730600894074 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAy4awAAAZLv2ecnAAAAAQAAAAEAAAAAAAAAANXlbIdeTKPWoe9OG99yJslvuWbQQXPdpNTWWmI8Coo6
+
+TUNNELS
+category-pairs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
