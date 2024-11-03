@@ -11611,3 +11611,6 @@ login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAy4awAAAZLv_17tAAA
 
 TUNNELS
 category-pairs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
